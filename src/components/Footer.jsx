@@ -4,7 +4,7 @@ export default function Footer() {
   return (
     <footer className="border-t border-[#D8D4CC] bg-[#FAF9F6] dark:border-[#3A3833] dark:bg-[#161513]">
       <div className="mx-auto max-w-5xl px-4 py-6 text-center font-sans text-xs text-[#6B6660] dark:text-[#9A958D] sm:px-6">
-        <p>&copy; {year} Redline. All Rights Reserved.</p>
+        <p>&copy; {year} ProCompare. All Rights Reserved.</p>
         <p className="mt-1">
           Designed &amp; Developed by{' '}
           <a
